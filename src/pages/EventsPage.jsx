@@ -4,9 +4,10 @@ import EventsList from '../components/EventsList';
 const EventsPage = () => {
   return (
     <div>
-      <EventsList />
+      <EventsList/>
     </div>
   );
 };
+
 
 export default EventsPage;
